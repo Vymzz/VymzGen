@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://t.me/isvvy"
+    "url": "git+https://github.com/Vymzz/VymzGen"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://t.me/isvvy"
+    "url": "https://github.com/Vymzz/VymzGen"
   },
   "homepage": "https://t.me/isvvy",
   "dependencies": {
