@@ -17,7 +17,7 @@ Little update will be introduced:
 
 ⚙️ **How it works**
 
-*Adding Accounts**
+**Adding Accounts**
 You can add account to your servide through the command /addone followed by the service and then the username and password in this syntax: username:password
 
 **Receiving accounts**
