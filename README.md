@@ -1,13 +1,18 @@
 ❓ **About**
+
 This tool let your server's users to get accounts through a secure and advanced system.
 
 **Coming soon: V2**
+
 Little update will be introduced:
  • Now instead of adding just one account, you can upload a txt file with some accounts and bulkupdate the service.
 
-• You can just write add, and if the service do not exists, the bot will create it for you.
+ • You can just write add, and if the service do not exists, the bot will create it for you.
+ 
  • Cooldown and Prefix can be changed thorugh the command "change OPTION VALUE" example: "change prefix /".
- • Now you can check how many accounts are in a service.
+ 
+ • Now you can check how many accounts are in a service.i
+ 
  • Stock command added to see all the stock.
 
 ⚙️ **How it works**
@@ -22,6 +27,9 @@ There is a 15 minutes cooldown by default, it can be changed in settings.json or
 **Examples**
 
 /add netflix useraname1:password1 - This will add that account to the Netflix service
+
 /gen netflix - This will take the first account in the Netflix.json file and send it to the user 
+
 /check Netflix - You will receive a message with the amount of accounts on that service.
+
 /stock - See the whole stock
