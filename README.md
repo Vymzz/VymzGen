@@ -11,7 +11,7 @@ Little update will be introduced:
  
  • Cooldown and Prefix can be changed thorugh the command "change OPTION VALUE" example: "change prefix /".
  
- • Now you can check how many accounts are in a service.i
+ • Now you can check how many accounts are in a service
  
  • Stock command added to see all the stock.
 
